@@ -1,0 +1,4 @@
+Hewan
+kerbau
+kucing
+ular
